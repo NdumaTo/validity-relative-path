@@ -1,0 +1,26 @@
+{
+  "name": "validity-relative-path",
+  "version": "1.0.0",
+  "description": "A validity style validator for relative path URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NdumaTo/validity-relative-path.git"
+  },
+  "keywords": [
+    "validity",
+    "validator",
+    "relative",
+    "path",
+    "url"
+  ],
+  "author": "Tola Ndumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NdumaTo/validity-relative-path/issues"
+  },
+  "homepage": "https://github.com/NdumaTo/validity-relative-path#readme"
+}
